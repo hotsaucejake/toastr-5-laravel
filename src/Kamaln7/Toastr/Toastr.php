@@ -74,6 +74,9 @@ class Toastr {
         }
         $output .= '</script>';
 
+        // fix for persisting session key
+        $this->session->forget('toastr::notifications');
+
         return $output;
     }
 
