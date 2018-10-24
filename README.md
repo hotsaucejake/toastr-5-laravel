@@ -6,7 +6,7 @@ Easy [toastr.js](https://github.com/CodeSeven/toastr) notifications for Laravel 
 Installation
 ------------
 
-1. Either run `composer require hotsaucejake/toastr-5-laravel` or add `"hotsaucejake/toastr-5-laravel": "dev-master"` to the `require` key in `composer.json` and run `composer install`
+1. Either run `composer require oriceon/toastr-5-laravel` or add `"oriceon/toastr-5-laravel": "dev-master"` to the `require` key in `composer.json` and run `composer install`
 2. Add `'Kamaln7\Toastr\ToastrServiceProvider',` to the `providers` key in `config/app.php` (optional for Laravel 5.5)
 3. Add `'Toastr'          => 'Kamaln7\Toastr\Facades\Toastr',` to the `aliases` key in `config/app.php` (optional for Laravel 5.5)
 
