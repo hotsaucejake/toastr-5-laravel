@@ -1,8 +1,8 @@
 {
-    "name": "hotsaucejake/toastr-5-laravel",
+    "name": "oriceon/toastr-5-laravel",
     "description": "Easy toastr notifications for Laravel 5",
     "keywords": ["toastr", "notification", "laravel", "php"],
-    "homepage": "https://github.com/hotsaucejake/toastr-5-laravel",
+    "homepage": "https://github.com/oriceon/toastr-5-laravel",
     "license": "MIT",
     "authors": [
         {
@@ -12,10 +12,6 @@
         {
             "name": "Valentin Ivascu",
             "email": "oriceon@gmail.com"
-        },
-        {
-            "name": "HOT SAUCE JAKE",
-            "email": "get@hotsaucejake.com"
         }
     ],
     "require": {
